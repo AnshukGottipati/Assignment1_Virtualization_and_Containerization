@@ -1,0 +1,34 @@
+{
+  "total_trips": 6,
+  "avg_fare_by_city": [
+    {
+      "city": "New York",
+      "avg_fare": 19.0
+    },
+    {
+      "city": "San Francisco",
+      "avg_fare": 20.25
+    },
+    {
+      "city": "Charlotte",
+      "avg_fare": 16.25
+    }
+  ],
+  "top_by_fare": [
+    {
+      "city": "San Francisco",
+      "duration": 28,
+      "fare": 29.3
+    },
+    {
+      "city": "New York",
+      "duration": 26,
+      "fare": 27.1
+    },
+    {
+      "city": "Charlotte",
+      "duration": 21,
+      "fare": 20.0
+    }
+  ]
+}
